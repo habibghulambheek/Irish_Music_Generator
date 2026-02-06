@@ -23,12 +23,10 @@ Building this project taught me:
 
 - How to implement and train LSTM networks for sequence generation
 - Working with ABC notation and music21 for music processing
-- Building a FastAPI backend with proper CORS configuration
 - Creating an interactive frontend with ABC.js for music visualization
 - Handling model checkpoints and state management in PyTorch
 - Using mixed precision training with GradScaler for efficiency
 - Managing vocabulary and character-to-index mappings for text generation
-- Implementing proper error handling for production-ready APIs
 - Working with the Irish folk music dataset and preprocessing techniques
 
 The biggest challenge was understanding how to maintain LSTM state across generations and implementing proper sampling strategies to create musically coherent sequences rather than repetitive patterns.
@@ -113,6 +111,9 @@ Melodia/
 ├── char2idx.pkl            # Character to index mapping
 ├── idx2char.pkl            # Index to character mapping
 └── README.md               # Project documentation
+└── loss Vs Step.jpeg       # Loss Vs Step Graph
+└── style.css               # Css file for styling 
+└── melvodia.js             # Contains Frontend logic
 ```
 
 ## Training Process
