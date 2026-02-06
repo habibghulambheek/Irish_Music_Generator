@@ -17,6 +17,8 @@ Composing music requires understanding of musical theory, patterns, and structur
 
 This makes music composition accessible to anyone, regardless of their musical background.
 
+## Dataset
+View the dataset from https://huggingface.co/datasets/sander-wood/irishman
 ## Learning Outcomes
 
 Building this project taught me:
