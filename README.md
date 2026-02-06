@@ -74,7 +74,7 @@ The API will run on `http://localhost:8000`
 
 ## Model Training Details
 
-The model was trained on 5000 Irish folk tunes from the "irishman" dataset with the following architecture:
+The model was trained on 5000 Irish folk tunes because of limitations of hardware from the "irishman" dataset with the following architecture:
 
 - **Embedding dimension**: 256
 - **Hidden size**: 2048
